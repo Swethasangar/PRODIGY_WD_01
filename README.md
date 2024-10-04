@@ -1,4 +1,4 @@
-# Task 1
+# PRODIGY_WD_01
 This Folder is for Web Development Internship
 Welcome to the Yoga Landing Page project! This project is a beautifully designed landing page to promote a yoga studio, yoga classes, or a personal yoga instructor. It aims to provide visitors with a serene and engaging user experience, conveying the peaceful and healthy aspects of practicing yoga.
 
